@@ -1,0 +1,24 @@
+name: Mimi
+age: 10
+address: "miami:beach"
+active: true
+key:
+  key: value
+  key2: 33
+  key3: 
+    key: value
+    key2: value
+arrey:
+  - item1
+  - item2
+  - {key: value}
+jsonArray: [item1, item2]
+objectArray:
+  - key: value
+    key2: value2
+  - key: value
+    key2: value
+longText: |
+  anmsdjddhdgdhbdbhbhfds
+  hsdgdjkdhdldiehegvdv kdkijebhd
+  gsbdhjdbdjkdikwlkndwon
